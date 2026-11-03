@@ -1,3 +1,5 @@
+[![test-automation](https://github.com/Flooooooooooorian/sharks-sd-ci-demo/actions/workflows/test-automation.yml/badge.svg)](https://github.com/Flooooooooooorian/sharks-sd-ci-demo/actions/workflows/test-automation.yml)
+
 # CI/CD Concepts and GitHub Actions: Demo Start
 
 `text-utils` is a small TypeScript library with four functions (`slugify`, `truncate`, `countWords`, `readingTime`) and tests. It has everything a pipeline needs: tests, a type check and a build. It has no workflow yet. We will add one in the demo.
